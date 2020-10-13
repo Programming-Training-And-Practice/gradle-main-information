@@ -30,7 +30,9 @@
 
 | Key/Command                                                                 | Description                                                                     |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| gradle tasks                                                                | Get all tasks.                                                                  |
 | gradle -q tasks                                                             | Get all tasks.                                                                  |
+| gradle [nameTask]                                                           | Execute task whit name.                                                         |
 | gradle -q [nameTask]                                                        | Execute task whit name.                                                         |
 |                                                                             |                                                                                 |
 

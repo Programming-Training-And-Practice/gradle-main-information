@@ -7,9 +7,8 @@
 ## Contents at a Glance.
 * [About](#about)
 * [Documentation.](#documentation)
-* [Pros.](#pros)
-* [Cons.](#cons)
 * [Useful URL.](#useful-urls)
+* [Six key interfaces to work with Gradle API.](#six-key-interfaces-to-work-with-gradle-api)
 * [Help](#help)
 
 
@@ -23,24 +22,25 @@
 
 
 ## Documentation.
-
-
-
-
-
-## Pros.
-
-
-
-
-
-## Cons.
+* [Gradle Doc.](https://docs.gradle.org/current/userguide/userguide.html)
 
 
 
 
 
 ## Useful URLs.
+
+
+
+
+
+## Six key interfaces to work with Gradle API.
+* Script.
+* Project.
+* Gradle.
+* Settings.
+* Tasks.
+* Actions.
 
 
 
