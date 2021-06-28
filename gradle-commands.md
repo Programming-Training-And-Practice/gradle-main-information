@@ -38,6 +38,12 @@
 | gradle clean build -x test --info                                           | Build and Skip tests.                                                           |
 | gradle clean assemble --info                                                |                                                                                 |
 | gradle dependencies --configuration compile                                 |                                                                                 |
+| gradle projects                                                             |                                                                                 |
+| gradle dependencies                                                         |                                                                                 |
+| gradle dependencies --configuration compile                                 |                                                                                 |
+| gradle dependencies --configuration implementation                          |                                                                                 |
+| gradle dependencies --configuration testImplementation                      |                                                                                 |
+| gradle dependencies --configuration testRuntimeOnly                         |                                                                                 |
 |                                                                             |                                                                                 |
 
 
